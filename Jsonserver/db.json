@@ -1,0 +1,157 @@
+{
+  "Category": [
+    {
+      "id": "1",
+      "cateName": "Popular",
+      "cateImg": "https://media.discordapp.net/attachments/1248649417972777043/1248651353165664377/star.png?ex=666470b1&is=66631f31&hm=2ebfd2c812194cc9a96636fd1207b37b2e48501439df4587313a159537333dba&=&format=webp&quality=lossless&width=565&height=565"
+    },
+    {
+      "id": "2",
+      "cateName": "Chair",
+      "cateImg": "https://media.discordapp.net/attachments/1248649417972777043/1248650989859508345/chair.png?ex=6664705a&is=66631eda&hm=f8c1ee4d8fceb948dccd74392d8449f98d45ed0366cf09ec41edd2c2499eab15&=&format=webp&quality=lossless&width=565&height=565"
+    },
+    {
+      "id": "3",
+      "cateName": "Table",
+      "cateImg": "https://media.discordapp.net/attachments/1248649417972777043/1248651105085292565/table.png?ex=66647076&is=66631ef6&hm=178782010ef1c7194b1bc60a618567561c56380ebc29b2ceeb61d38703920745&=&format=webp&quality=lossless&width=565&height=565"
+    },
+    {
+      "id": "4",
+      "cateName": "Armchair",
+      "cateImg": "https://media.discordapp.net/attachments/1248649417972777043/1248651206612746260/armchair.png?ex=6664708e&is=66631f0e&hm=c9424cce2fd200367ec6f6f5ea114a3ea2db8916e272a90560070c6369d52079&=&format=webp&quality=lossless&width=565&height=565"
+    },
+    {
+      "id": "5",
+      "cateName": "Bed",
+      "cateImg": "https://cdn.discordapp.com/attachments/1248649417972777043/1248650951837880444/bed.png?ex=66647051&is=66631ed1&hm=c3b905edcb56083face082b3eed8977da1e3f88f57961cfca69839b6bef51e8f&"
+    },
+    {
+      "id": "6",
+      "cateName": "Lamp",
+      "cateImg": "https://media.discordapp.net/attachments/1248649417972777043/1248651032305602750/lamp.png?ex=66647064&is=66631ee4&hm=7660ca23016009f8c5b63b4602d847a28b55271fdeaffa29b98b79d36049e9d6&=&format=webp&quality=lossless&width=565&height=565"
+    }
+  ],
+  "Product": [
+    {
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home.",
+      "prId": "pd1",
+      "prName": "Black Simple Lamp",
+      "prPrice": "12.00",
+      "quantity": 1,
+      "rate": "4.5",
+      "prImg": "https://m.media-amazon.com/images/I/61Dq8JFn1BL.jpg",
+      "id": "2eb3"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd2",
+      "prName": "Minimal Stand",
+      "prPrice": "25.00",
+      "quantity": 1,
+      "rate": "4.0",
+      "prImg": "https://www.theurbaneditions.com/cdn/shop/products/Marston-Wide-TVstand-Oak-OFD180SQ25-1b_ee48244d-568b-4c6c-afc4-6370d472051c.jpg?v=1614676881&width=2048",
+      "id": "b91c"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd3",
+      "prName": "Coffee Table",
+      "prPrice": "50.00",
+      "quantity": 1,
+      "rate": "4.5",
+      "prImg": "https://m.media-amazon.com/images/I/81WUquyQ0wL._AC_UF894,1000_QL80_.jpg",
+      "id": "3f66"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd4",
+      "prName": "Coffee Chair",
+      "prPrice": "20.00",
+      "quantity": 1,
+      "rate": "4.8",
+      "prImg": "https://www.neohoreca.com/wp-content/uploads/2020/07/Modern-Cafe-and-Coffee-Shop-Chair-NEO-300304E.jpg",
+      "id": "1726"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd5",
+      "prName": "Minimal Desk",
+      "prPrice": "12.00",
+      "quantity": 1,
+      "rate": "4.5",
+      "prImg": "https://www.officeworkdesign.com/wp-content/uploads/2021/10/Need-A-Minimalist-Desk.jpg",
+      "id": "bdfd"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd6",
+      "prName": "Minimal Lamp",
+      "prPrice": "12.00",
+      "quantity": 1,
+      "rate": "4.5",
+      "prImg": "https://images.food52.com/vwmdaEKp7SJq4jkmiRAE1J9uVgw=/500x500/ace84ecd-819b-4e0f-b6f7-032a087e82f2--2020-0921_blomus_minimalist-rechargable-touch-lamp_charcoal_silo_ty-mecham.jpg",
+      "id": "58c9"
+    }
+  ],
+  "Cart": [
+    {
+      "id": "09be",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd2",
+      "prImg": "https://www.theurbaneditions.com/cdn/shop/products/Marston-Wide-TVstand-Oak-OFD180SQ25-1b_ee48244d-568b-4c6c-afc4-6370d472051c.jpg?v=1614676881&width=2048",
+      "prName": "Minimal Stand",
+      "prPrice": "25.00",
+      "quantity": 1,
+      "rate": "4.0"
+    },
+    {
+      "id": "52ec",
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home.",
+      "prId": "pd1",
+      "prImg": "https://m.media-amazon.com/images/I/61Dq8JFn1BL.jpg",
+      "prName": "Black Simple Lamp",
+      "prPrice": "12.00",
+      "quantity": 1,
+      "rate": "4.5"
+    },
+    {
+      "id": "76c5",
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home.",
+      "prId": "pd1",
+      "prImg": "https://m.media-amazon.com/images/I/61Dq8JFn1BL.jpg",
+      "prName": "Black Simple Lamp",
+      "prPrice": "12.00",
+      "quantity": 1,
+      "rate": "4.5"
+    }
+  ],
+  "User": [
+    {
+      "id": "1",
+      "name": "phuc",
+      "email": "phuc@gmail.com",
+      "pass": "123"
+    },
+    {
+      "id": "f934",
+      "email": "phuc123@gmail.com",
+      "name": "phuc",
+      "password": "123"
+    },
+    {
+      "id": "e6d9",
+      "email": "bbb",
+      "name": "aaa",
+      "password": "123"
+    },
+    {
+      "id": "89e4",
+      "email": "aaa",
+      "name": "aaa",
+      "password": "111",
+      "repass": "111"
+    }
+  ],
+  "History": [],
+  "Favorite": []
+}
